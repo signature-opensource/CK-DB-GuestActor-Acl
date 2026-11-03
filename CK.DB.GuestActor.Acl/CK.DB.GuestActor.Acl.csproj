@@ -6,7 +6,7 @@
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="CK.DB.Acl" Version="31.0.0-0.cris-auth.0.ci.38" />
+    <PackageReference Include="CK.DB.Acl" Version="31.0.0-0.cris-auth.0.ci.40" />
     <PackageReference Include="CK.DB.GuestActor" Version="3.0.0-0.cris-auth.0.ci.12" />
   </ItemGroup>
   <ItemGroup>
